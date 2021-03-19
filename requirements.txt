@@ -21,7 +21,7 @@ django-cors-headers==2.5.2
 django-grappelli==2.12.1
 django-jet==1.0.8
 django-rest-swagger==2.2.0
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 docopt==0.6.2
 falcon==1.4.1
 flup==1.0.3
