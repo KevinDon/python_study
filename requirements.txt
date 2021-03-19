@@ -51,7 +51,7 @@ pbr==5.1.2
 peewee==3.8.2
 peewee-migrate==1.1.5
 pefile==2018.8.8
-Pillow==5.4.1
+Pillow==8.1.1
 pipreqs==0.4.9
 postgres==2.2.2
 promise==2.2.1
