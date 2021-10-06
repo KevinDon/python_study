@@ -83,7 +83,7 @@ redis==3.2.0
 requests==2.21.0
 rsa==4.0
 Rx==1.6.1
-Scrapy==1.6.0
+Scrapy==1.8.1
 scrapyd==1.2.0
 service-identity==18.1.0
 simplejson==3.16.0
